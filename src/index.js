@@ -24,6 +24,7 @@ const component = () => {
   return element;
 }
 
+// test
 console.log("webpack dev!!!", area(5));
 console.log("default import:", cube(5));
 
